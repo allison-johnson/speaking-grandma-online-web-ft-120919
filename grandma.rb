@@ -22,7 +22,7 @@ def speak_to_grandma(phrase)
     end #inner if
   
   else
-    "HUH!? SPEAK UP, SONNY!"
+    "HUH?! SPEAK UP, SONNY!"
   
   end #outer if
 end #method
